@@ -6,7 +6,7 @@
 // @author       Glen Choo
 // @match        http://edimension.sutd.edu.sg/course/view.php?id=*
 // @grant       GM_addStyle
-// @grant       GM_xmlhttpRequest
+// @grant       GM_xmlhttpRequestg
 // @require 	http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
 /* jshint -W097 */
