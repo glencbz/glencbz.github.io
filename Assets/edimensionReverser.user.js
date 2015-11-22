@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         eDimension Reverser
 // @namespace    https://github.com/glencbz/edimensionReverser
-// @version      0.7
+// @version      0.71
 // @description  Reverses the course list on eDimension
 // @author       Glen Choo
 // @match        http://edimension.sutd.edu.sg/
