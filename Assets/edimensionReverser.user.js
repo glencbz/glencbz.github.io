@@ -33,6 +33,7 @@ highlightCourses = highlightCourses.map(function(obj){
 	return obj.toLowerCase();
 });
 var $ = window.jQuery;
+$(function(){
 var styles = ["<style>.highlighted{background-color: #E8F6FF; border: 2px solid #C9DFFF; border-radius: 4px;}</style>"];
 styles.push("<style>.overlay{position: absolute; width: 100%; height: 100%; top: 0; left: 0;}</style>")
 
@@ -59,4 +60,5 @@ courseList.children().each(function(i, li){
 			return;
 	}
 	courseList.prepend(li);
+});
 });
